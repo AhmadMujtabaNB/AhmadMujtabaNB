@@ -31,17 +31,22 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working with NewBuffers  
   
+✨ **Technical Skills**
 
-- 🌱 I’m currently learning Microservices, DevOps and MLOps  
-  
+- Proficient in Python, Java, and JavaScript 🐍 ☕️ 💻
+- Experienced with various backend technologies, including Node.js, Spring Boot, and Django 🚀 🌱 🦉
+- Familiarity with cloud platforms, such as AWS, Azure, and GCP ☁️ 🌧️ 🚀
+- Knowledge of DevOps practices and tools, such as Git, Docker, and Kubernetes 🐱 🐳 ☸️
+- Understanding of MLOps principles and tools, such as MLflow and Kubeflow 🤖 💐
 
-- ❓ Ask me about anything related to Backend Technologies  
-  
+✨ **Personal Qualities**
 
-- ⚡ Fun fact: I am collaborative  
+- Passionate about software development and continuous learning 🚀 ✨
+- Strong problem-solving and analytical skills 🧩 🧠
+- Excellent communication and collaboration abilities 💬 🤝
+- Adaptable and flexible in working with different teams and projects 🤸‍♂️ 🤹‍♀️
+- Eager to learn new technologies and methodologies 💡 📚
 
 
 </td><td valign="top" width="50%">

@@ -45,11 +45,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 </td><td valign="top" width="50%">
-
-
+<img src="https://github.com/AhmadMujtabaNB/AhmadMujtabaNB/blob/6598568599ac9d35be7c830078af2a8afc9b6653/Untitled%20design.png"  title="hover text">
 
 </td>
-<a src="" alt="image here">
 </tr>
 </table>  
 

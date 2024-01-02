@@ -118,17 +118,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AhmadMujtaba200210&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
